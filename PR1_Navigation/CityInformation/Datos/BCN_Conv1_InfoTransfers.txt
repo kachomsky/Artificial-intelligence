@@ -1,0 +1,7 @@
+Sagrera L2 TO Sagrera L1 : 3
+La Pau L4 TO La Pau L3 : 11
+Clot L4 TO Clot L1 : 15
+Sagrada Família L4 TO Sagrada Família L2 : 1
+
+MIN TRANSFER : 1
+MAX TRANSFER : 15
